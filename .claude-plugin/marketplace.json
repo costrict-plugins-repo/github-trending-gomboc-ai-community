@@ -1,0 +1,14 @@
+{
+  "name": "gomboc-community-marketplace",
+  "owner": {
+    "name": "Gomboc AI"
+  },
+  "plugins": [
+    {
+      "name": "gomboc-community",
+      "source": "./",
+      "description": "Scan, fix, and create ORL rules for Terraform, HCL, CloudFormation, Bicep, Dockerfile, Kubernetes, and Python",
+      "version": "3.1.0"
+    }
+  ]
+}
